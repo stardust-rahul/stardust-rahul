@@ -5,14 +5,17 @@
 </a>
 
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=py,js,ts,java,cpp,fastapi,django,express,react,nodejs,docker,git,github,linux,mongodb,postgres,aws,gcp,azure)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,js,ts,express,react,nodejs,docker,git,github,linux,mongodb,postgres,redis,gcp,azure)](https://skillicons.dev)
 
 ### Studying
-[![Learning](https://skillicons.dev/icons?i=kubernetes,terraform,redis)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=kubernetes,cpp,aws)](https://skillicons.dev)
 
 ### Featured Projects
 - [SmartNotes-AI Summarizer](https://github.com/stardust-rahul/smartnotes-AI-summarizer) — AI-powered note-taking app with intelligent text summarization
 - [EtchASketch](https://stardust-rahul.github.io/EtchASketch/) — Dynamic drawing app with color picker and intuitive UI
+
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stardust-rahul&show_icons=true&hide_border=true&title_color=00C853&icon_color=00C853&text_color=FFFFFF&bg_color=0D1117)
 
 ### Connect with me
 <div>
@@ -23,5 +26,7 @@
         <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/>
     </a>
 </div>
+
+![](https://komarev.com/ghpvc/?username=stardust-rahul&color=00C853&style=flat-square&label=Profile+Views)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00C853&height=120&section=footer" alt="footer"/>
