@@ -1,32 +1,27 @@
-# Hi there! 👋 I'm Rahul Kumar
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00C853&height=120&section=header" alt="header"/>
 
-🚀 **Aspiring Software Engineer | Backend Development | AI Applications | DevOps Enthusiast**
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=00C853&width=435&lines=Hey%2C+I'm+Rahul+Kumar;Software+Engineer" alt="Software Engineer"/>
+</a>
 
-I’m currently pursuing my **B.Tech in Computer Science and Engineering**. I have a passion for building modern, user-friendly web applications and integrating AI to make systems smarter and more intuitive.
+### Main skills
+[![My Skills](https://skillicons.dev/icons?i=py,js,ts,java,cpp,fastapi,django,express,react,nodejs,docker,git,github,linux,mongodb,postgres,aws,gcp,azure)](https://skillicons.dev)
 
-### 👨‍💻 What I love to do:
-- 🔧 **Backend Development** with Python, FastAPI, Django, and Node.js
-- 🌐 **Modern Frontend Development** with React, Tailwind CSS, and TypeScript
-- 🤖 **AI & ML Integration** using Google Vertex AI and NLP techniques
-- ☁️ **Cloud & DevOps** with GCP, AWS, Azure, Docker, and GitHub Actions
-- 📦 **Database Management** using MongoDB, SQL, PostgreSQL
+### Studying
+[![Learning](https://skillicons.dev/icons?i=kubernetes,terraform,redis)](https://skillicons.dev)
 
-### 🌟 Featured Projects
-- ✏️ **[SmartNotes-AI Summarizer](https://github.com/stardust-rahul/smartnotes-AI-summarizer):** AI-powered note-taking app with intelligent text summarization.
-- 🎨 **[EtchASketch](https://stardust-rahul.github.io/EtchASketch/):** Dynamic drawing app with color picker and intuitive UI.
+### Featured Projects
+- [SmartNotes-AI Summarizer](https://github.com/stardust-rahul/smartnotes-AI-summarizer) — AI-powered note-taking app with intelligent text summarization
+- [EtchASketch](https://stardust-rahul.github.io/EtchASketch/) — Dynamic drawing app with color picker and intuitive UI
 
-### 🛠️ Tools & Technologies
-- **Languages:** Python, JavaScript, Java, C/C++, Assembly
-- **Frameworks:** FastAPI, Django, Express.js, React.js, Node.js
-- **Cloud & DevOps:** Docker, GitHub Actions, Linux, CI/CD
-- **Databases:** MongoDB, PostgreSQL, Prisma, SQLAlchemy
-- **AI/ML:** Google Vertex AI, NLP, ML Algorithms
+### Connect with me
+<div>
+    <a href="https://www.linkedin.com/in/rahul-kumar-stardust/">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:rahulmark43@outlook.com">
+        <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/>
+    </a>
+</div>
 
-### 📫 How to reach me:
-- 📧 [rahulmark43@outlook.com](mailto:rahulmark43@outlook.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/rahul-kumar-stardust/)
-
----
-
-💡 I’m always looking to collaborate on innovative projects and learn new technologies. Let’s connect and create something impactful together!
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00C853&height=120&section=footer" alt="footer"/>
