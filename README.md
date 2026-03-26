@@ -14,8 +14,12 @@
 - [SmartNotes-AI Summarizer](https://github.com/stardust-rahul/smartnotes-AI-summarizer) — AI-powered note-taking app with intelligent text summarization
 - [EtchASketch](https://stardust-rahul.github.io/EtchASketch/) — Dynamic drawing app with color picker and intuitive UI
 
-### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stardust-rahul&show_icons=true&hide_border=true&title_color=00C853&icon_color=00C853&text_color=FFFFFF&bg_color=0D1117)
+### Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/stardust-rahul/stardust-rahul/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/stardust-rahul/stardust-rahul/blob/output/github-snake.svg" />
+  <img alt="snake animation" src="https://github.com/stardust-rahul/stardust-rahul/blob/output/github-snake.svg" />
+</picture>
 
 ### Connect with me
 <div>
