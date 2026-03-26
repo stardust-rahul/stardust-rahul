@@ -4,6 +4,8 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=00C853&width=435&lines=Hey%2C+I'm+Rahul+Kumar;Software+Engineer" alt="Software Engineer"/>
 </a>
 
+![](https://komarev.com/ghpvc/?username=stardust-rahul&color=00C853&style=flat-square&label=Profile+Views)
+
 ### Main skills
 [![My Skills](https://skillicons.dev/icons?i=py,django,js,ts,express,react,nodejs,docker,git,github,linux,mongodb,postgres,redis,gcp,azure)](https://skillicons.dev)
 
@@ -29,7 +31,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/stardust-rahul/stardust-rahul/blob/output/github-snake.svg" />
   <img alt="snake animation" src="https://github.com/stardust-rahul/stardust-rahul/blob/output/github-snake.svg" />
 </picture>
-
-![](https://komarev.com/ghpvc/?username=stardust-rahul&color=00C853&style=flat-square&label=Profile+Views)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00C853&height=120&section=footer" alt="footer"/>
